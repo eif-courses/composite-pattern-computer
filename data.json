@@ -1,0 +1,26 @@
+{
+  "hard_disks": [
+    {
+      "name": "SAMSUNG SSD 980 PRO 1TB M.2 NVMe PVIe 4.0",
+      "description": "SSD series 980 Pro|1TB|Form Factor M.2|NVMe|Write speed 5000 MBytes/sec|Read speed 7000 MBytes/sec|Drive thickness 2.3mm|MTBF 1500000 hours",
+      "price": 129.90
+    },
+    {
+      "name": "Adata SU800 SSD SATA III 2.5'' 256GB, read/write 560/520MB/s, 3D NAND Flash\n",
+      "description": "The SU800 solid state drive lives up to its Ultimate name with 3D NAND Flash that provides higher storage density, efficiency, and reliability than traditional 2D NAND. It features intelligent SLC caching and a DRAM cache buffer to boost read/write performance even further. Featuring LDPC ECC and technologies such as high TBW (total bytes written) and DEVSLP (Device Sleep), the Ultimate SU800 instantly upgrades notebook and desktop PCs with superior stability, durability, and power efficiency. In addition, users can download ADATA in-house developed SSD Toolbox and Migration Utility software for free to enjoy easy data management and migration.",
+      "price": 35.59
+    }
+  ],
+  "peripherals": [
+    {
+      "name": "Razer BlackWidow V3 Mini HyperSpeed ",
+      "description": "Razer BlackWidow V3 Mini HyperSpeed bevielė mechaninė žaidimų klaviatūra su anglų raidžių išsidėstymu ir RGB LED apšvietimu - Yellow Switch",
+      "price": 147.89
+    },
+    {
+      "name": "SteelSeries Apex Pro",
+      "description": "SteelSeries Apex Pro World’s Fastest Mechanical Gaming US Keyboard | Adjustable Actuation Switches | OLED Smart Display | RGB LED Backlit",
+      "price": 187.00
+    }
+  ]
+}
